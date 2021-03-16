@@ -1,3 +1,8 @@
+'''
+--- ALGEBRA BASED 3D RENDERING ENGINE ---
+         AUTHOR - RONAN PICKELL
+'''
+
 import math, random, keyboard
 from time import sleep
 import matplotlib.pyplot as plt
